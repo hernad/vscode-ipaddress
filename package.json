@@ -2,7 +2,7 @@
   "name": "vscode-ipaddress",
   "displayName": "IP adrese.bout",
   "description": "Prikaz IP adresa u status baru",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "bout",
   "engines": {
     "vscode": "^1.30.0"
