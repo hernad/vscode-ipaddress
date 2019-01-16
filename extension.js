@@ -4,7 +4,7 @@
 // Import the module and reference it with the alias vscode in your code below
 const Commands               = require('./commands');
 const IPAddressStatusBarItem = require('./ipAddressStatusBarItem2');
-const os                     = require('os');
+//const os                     = require('os');
 const vscode                 = require('vscode');
 const networkInterfaces      = require('./networkInterfaces')();
 
