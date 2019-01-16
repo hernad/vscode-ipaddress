@@ -2,7 +2,7 @@
   "name": "vscode-ipaddress",
   "displayName": "IP Address",
   "description": "Shows IP addresses in status bar and inserts into your text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "bout",
   "engines": {
     "vscode": "^1.30.0"
@@ -25,7 +25,7 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:ipAddress.insertIPAddress"
+    "*"
   ],
   "main": "./extension",
   "contributes": {
