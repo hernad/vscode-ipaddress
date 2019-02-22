@@ -3,7 +3,7 @@
   "displayName": "IP adrese.bout",
   "description": "Prikaz IP adresa u status baru",
   "version": "1.0.4",
-  "publisher": "bring-out",
+  "publisher": "bringout",
   "engines": {
     "vscode": "^1.30.0"
   },
